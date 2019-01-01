@@ -206,3 +206,4 @@ Engine/Binaries/DotNET/SwarmAgent.Options.xml
 
 # Ignore CLion directory
 .idea/
+/Debug/
